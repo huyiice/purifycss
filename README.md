@@ -1,4 +1,4 @@
-# PurifyCSS
+# PurifyCSS - helloworld.
 
 * Detects which CSS classes your app is using and creates a file without the unused CSS.
 
